@@ -1,0 +1,6 @@
+framework module LGPlaceholderView {
+  umbrella header "LGPlaceholderView-umbrella.h"
+
+  export *
+  module * { export * }
+}
